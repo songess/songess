@@ -1,16 +1,35 @@
-![header](https://capsule-render.vercel.app/api?type=waving&customColorList=18&fontColor=ffffff&height=180&text=FrontEnd%20Developer&fontSize=40)
+<h2>송은수</h2>
 
-## Languages
-<div algin="center">
+<p><b>SW Developer</b>
 
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Javascript-F7901E?style=flat&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
+<br />
+
+### Education
+- **Sogang University**
+  > Computer Science and Engineering | 2020 – Present
+
+- **CEOS Frontend Part**
+  > March 2024 – August 2024
+
+- **Frontend Developer, TIG**
+  > July 2024 – Present
+
+<br />
+
+## Projects
+| Project | Type | Period |
+|:---------|:------|:---------|
+| [TIG](https://tigleisure.com) | 여가 중개 플랫폼 | 2024.07 ~ Present |
+| [songess.site](https://www.songess.site/) | 개인블로그 | 2024.12 ~ Present |
+| [My Beautiful Trip](https://github.com/songess/MBT) | Personal | 2024.12 ~ 2024.12 |
+| [서강첫차](https://github.com/FirstCarSogang/frontend) | Team | 2024.01 ~ 2024.02 |
+
+<br />
+
+### Stats
+<div align="center">
   
-## Stack
-<img src="https://img.shields.io/badge/React-40AEF0?style=flat&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/React query-FF4154?style=flat&logo=reactquery&logoColor=white">
-<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white">
-<img src="https://img.shields.io/badge/Emotion-D26AC2?&style=flat&logo=emotion&logoColor=white">
-<img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white">
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songess)](https://solved.ac/songess/)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songess&layout=compact&theme=dark&hide=MDX)](https://github.com/songess)
 </div>
+
